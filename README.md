@@ -26,4 +26,6 @@ Hard
       
   - Students will get familiar with:
        * if-on-edge-bounce block
-      
+
+### Output
+https://scratch.mit.edu/projects/368079844/ <br>
